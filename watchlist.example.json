@@ -1,0 +1,50 @@
+{
+  "benchmarks": [
+    "^JKSE",
+    "^GSPC",
+    "^IXIC",
+    "USDIDR=X"
+  ],
+  "items": [
+    {
+      "symbol": "BBCA.JK",
+      "name": "Bank Central Asia",
+      "market": "IDX",
+      "buy_below": 9000.0,
+      "sell_above": 11000.0,
+      "note": "Core IDX bank"
+    },
+    {
+      "symbol": "BBRI.JK",
+      "name": "Bank Rakyat Indonesia",
+      "market": "IDX",
+      "buy_below": 4200.0,
+      "sell_above": null,
+      "note": "Dividend play"
+    },
+    {
+      "symbol": "TLKM.JK",
+      "name": "Telkom Indonesia",
+      "market": "IDX",
+      "buy_below": null,
+      "sell_above": null,
+      "note": ""
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "market": "US",
+      "buy_below": null,
+      "sell_above": null,
+      "note": "AI infrastructure leader"
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "market": "US",
+      "buy_below": null,
+      "sell_above": null,
+      "note": ""
+    }
+  ]
+}
